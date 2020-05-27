@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Note
 
-This project uses [json-server](https://github.com/typicode/json-server) in place of an actual db.
+This project uses [json-server](https://github.com/typicode/json-server) instead of hitting an actual database.
 
 ## Available Scripts
 
