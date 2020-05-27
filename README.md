@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Installs dependencies.
+Use this to install the required dependencies.
 
 ### `npm run dev`
 
