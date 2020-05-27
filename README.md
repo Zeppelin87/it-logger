@@ -21,3 +21,8 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 
+## Other Scripts
+
+Check the package.json file's `scipts` property to see additional scripts that can be run.
+
+
