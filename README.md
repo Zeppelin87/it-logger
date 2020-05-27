@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Note
+
+This project uses [json-server](https://github.com/typicode/json-server) in place of an actual db.
+
 ## Available Scripts
 
 In the project directory, you can run:
