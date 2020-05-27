@@ -2,27 +2,27 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Note
 
-This project uses [json-server](https://github.com/typicode/json-server) instead of hitting an actual database.
+- This project uses [json-server](https://github.com/typicode/json-server) instead of hitting an actual database.
 
 ## Available Scripts
 
-In the project directory, you can run:
+- In the project directory, you can run:
 
 ### `npm install`
 
-Use this to install the required dependencies.
+- Use this to install the required dependencies.
 
 ### `npm run dev`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Runs the app in the development mode.<br />
+- Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+   - The page will reload if you make edits.<br />
+   - You will also see any lint errors in the console.
 
 
 ## Other Scripts
 
-Check the package.json file's `scipts` property to see additional scripts that can be run.
+- Check the package.json file's `scipts` property to see additional scripts that can be run.
 
 
